@@ -1,3 +1,5 @@
 print("Comenzando con Git")
-nombre = input("Ingrese su nombre: ")
-print("Tu nombre es:", nombre)
+edad = input("Ingrese su edad: ")
+print("Tu edad es:", edad)
+apellido = input("Ingrese su apellido: ")
+print("Tu apellido es:", apellido)

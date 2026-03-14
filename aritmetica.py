@@ -1,3 +1,2 @@
 def sumar(a,b):
-    sumados = a + b
-    return sumados
+    return a + b
